@@ -1,8 +1,8 @@
-<p align="center"><img src="https://host.dougrt.dev/github/nlw2-logo.png"/></p>
+<p align="center"><img src="https://host.dougrt.dev/github/proffy-logo.png"/></p>
 <h4 align="center">NextLevelWeek 2.0 🚀</h4>
 
 <h1 align="center">
-  <img src="https://social.dougrt.dev/github/nlw2/logo.png" />
+  <img src="https://host.dougrt.dev/github/nlw2-logo.png" />
   <br />
   <a href="https://www.linkedin.com/in/douglastofoli/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Douglas%20Tofoli-9871F5?label=Linkedin&logo=linkedin&style=flat-square">
@@ -29,9 +29,9 @@
 </p>
 
 <h1 align="center" id="design">
-  <img src="https://social.dougrt.dev/github/nlw2/interface-web.png" />
+  <img src="https://host.dougrt.dev/github/proffy-1.png" />
   <br />
-  <img src="https://social.dougrt.dev/github/nlw2/interface-mobile.png" />
+  <img src="https://host.dougrt.dev/github/proffy-2.png" />
 </h1>
 
 <h2 id="features">
