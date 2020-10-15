@@ -1,4 +1,4 @@
-<p align="center"><img src="https://cloud.dougrt.dev/core/preview?fileId=4549786&x=1366&y=768&a=true"/></p>
+<p align="center"><img src="https://host.dougrt.dev/github/nlw2-logo.png"/></p>
 <h4 align="center">NextLevelWeek 2.0 🚀</h4>
 
 <h1 align="center">
